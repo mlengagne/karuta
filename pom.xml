@@ -28,7 +28,7 @@
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<jersey.version>2.26</jersey.version>
-		<tapestry-release-version>5.4.5</tapestry-release-version>
+		<tapestry-release-version>5.6.4</tapestry-release-version>
 	</properties>
 
 	<!-- =============================================================== -->
